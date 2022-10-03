@@ -1,2 +1,3 @@
 # RxJS
-![image](https://user-images.githubusercontent.com/96089651/193483266-3b06bdaa-be3a-4e3c-b1f8-af7c37db147c.png)
+
+![RxJS](https://user-images.githubusercontent.com/96089651/193484739-3c82e805-0f6a-4570-b4da-016081295097.png)
